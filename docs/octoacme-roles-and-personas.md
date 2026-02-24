@@ -73,6 +73,97 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
 
+
+Project Analyst
+Role Summary
+
+Project Analysts track metrics, identify bottlenecks, and provide actionable insights to improve project efficiency.
+
+Responsibilities
+
+Collect and analyze project performance data
+
+Identify process gaps and suggest improvements
+
+Collaborate with Project Managers and PMO to optimize workflows
+
+Maintain dashboards and reports for project visibility
+
+Goals
+
+Improve process efficiency and project delivery
+
+Provide early identification of risks or delays
+
+Support data-driven decision making
+
+Typical Communication
+
+Weekly performance summaries
+
+Reports on process bottlenecks
+
+Collaboration with PMs and PMO teams
+
+QA Coordinator
+Role Summary
+
+QA Coordinators ensure that project documentation and processes align with quality standards and compliance requirements.
+
+Responsibilities
+
+Review documentation updates for accuracy and completeness
+
+Ensure QA requirements are integrated into project workflows
+
+Coordinate QA activities with project teams
+
+Track compliance and quality metrics
+
+Goals
+
+Maintain high-quality project documentation
+
+Ensure QA standards are consistently applied
+
+Reduce errors and rework
+
+Typical Communication
+
+QA status reports
+
+Documentation review notes
+
+Coordination meetings with QA and project teams
+
+UX Liaison
+Role Summary
+
+UX Liaisons ensure project processes consider user experience standards and design consistency.
+
+Responsibilities
+
+Collaborate with designers and product managers to align processes with UX goals
+
+Provide feedback on documentation and workflows from a user perspective
+
+Ensure UX considerations are reflected in project deliverables
+
+Goals
+
+Enhance usability and design consistency in project outcomes
+
+Reduce rework due to UX-related issues
+
+Improve stakeholder and end-user satisfaction
+
+Typical Communication
+
+UX feedback reports
+
+Coordination with design and PM teams
+
+Participation in design reviews and process discussions
 ---
 
 ## How these personas are used in the exercise
